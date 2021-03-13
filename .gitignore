@@ -7,6 +7,9 @@
 node_modules
 package-lock.json
 
+# yarn
+yarn.lock
+
 # dist
 dist/
 dist-lang/
